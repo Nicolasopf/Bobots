@@ -1,0 +1,22 @@
+{
+  "name": "dirtyTalker",
+  "version": "0.0.0",
+  "description": "bot to give free insults to everyone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nicolasopf/Bobots.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bots"
+  ],
+  "author": "\"Diego Ahumada \\ <Xvongola23@gmail.com\\> (https://github.com/Xvaria)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Nicolasopf/Bobots/issues"
+  }
+}
