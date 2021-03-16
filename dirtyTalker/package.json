@@ -18,5 +18,8 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/Nicolasopf/Bobots/issues"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1"
   }
 }
