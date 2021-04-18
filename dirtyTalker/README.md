@@ -36,5 +36,5 @@ Join into the discord server and write in some channel
 The bot will start to insult someone in that channel.
 
 ## Authors:
-Diego Ahumada - https://github.com/Xvaria
+Diego Ahumada - https://github.com/Xvaria<br/>
 Nicolas Urrea - https://github.com/Nicolasopf
