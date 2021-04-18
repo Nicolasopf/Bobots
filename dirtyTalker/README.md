@@ -8,7 +8,7 @@ Assign this bot permissions only to a chanel NSFW related.
 ## Features
 * Tag random person and insult every X time: 50%
 * Send image with insult: ❌
-* Enter voice channel and give the insult to some person with the google translator / voice related.
+* Enter voice channel and give the insult to some person with the google translator / voice related: ❌
 
 ## How to install
 Install node js
