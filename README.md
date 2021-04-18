@@ -10,5 +10,5 @@ Select the bot you want and you will be redirected to the directory:
 More soon...
 
 ## Authors
-Diego Ahumada - https://github.com/Xvaria
+Diego Ahumada - https://github.com/Xvaria<br/>
 Nicolas Urrea - https://github.com/Nicolasopf
